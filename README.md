@@ -13,5 +13,4 @@ Pagina publicada: https://159antony-hub.github.io/taller-ux/
 | Control y libertad | Confirmacion antes de limpiar el formulario |
 | Ley de Fitts | Boton principal grande y separado de Limpiar |
 | Ley de Hick | Talleres agrupados por categoria |
-| Accesibilidad | Labels, texto alternativo, contraste y foco visible |# taller-ux
-Formulario de inscripcion redisenado con principios de UX/UI
+| Accesibilidad | Labels, texto alternativo, contraste y foco visible |
